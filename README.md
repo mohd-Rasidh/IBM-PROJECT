@@ -1,2 +1,2 @@
 # IBM-PROJECT
-My Machine Learming project using IBM Cloud
+My Machine Learning project using IBM Cloud
