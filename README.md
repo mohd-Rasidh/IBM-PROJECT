@@ -71,7 +71,6 @@ Computer Science Student
 
 GitHub: https://github.com/mohd-Rasidh
 
-LinkedIn: (Add your LinkedIn profile)
 
 📜 License
 
